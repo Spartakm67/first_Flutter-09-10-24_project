@@ -57,9 +57,6 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
-            const Text(
-              'Flutter first project WEB Academy (Spartak)',
-            ),
           ],
         ),
       ),
